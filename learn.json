@@ -11,6 +11,7 @@
 	"syntax": "python",
 	"duration" : 2,
 	"template_url": "self",
+	"autoPlay": "false",
     	"projectType": "project",
 	"description" : {
 		"us": "Learn the basics on how to optimize or better build algorithms in Python for Machine Learning",
